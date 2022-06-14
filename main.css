@@ -1,7 +1,7 @@
 body {
     margin:0;
-    background-color: #2f3336;
-    color: #efefef;
+    background-color: lavender;
+    color: purple;
     font-family:  'lato';
     font-size:17px;
 }
@@ -10,7 +10,7 @@ h1.logo{
     font-size:44px;
     font-weight: 700;
     text-align:center;
-    color:#ddd;
+    color: white;
     text-transform: uppercase;
     letter-spacing: 5px;
     margin-top:0px;
@@ -19,12 +19,12 @@ h1.logo{
 }
 /* tu jest tło */
 #logotyp{
-    background-image: url('img/cartographer\ \(1\).png');
+    background-image: url('img/jezioro.png');
 }
 
 /* stylizacja nawigacji */
 nav{
-    background-color: #1c74b2;
+    background-color: darkslateblue;
     text-align: center;
 }
 
